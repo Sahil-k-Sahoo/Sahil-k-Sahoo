@@ -8,7 +8,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350"/>
 
-🚀 AI-integrated backend developer passionate about building intelligent systems, scalable APIs, and real-world automation tools.<br><br>🔧 Currently building adaptive learning platforms, BLE-based smart systems, and AI-powered backend architectures using Flask, Firebase, Gemini APIs, and embedded technologies.<br><br>🧠 Interested in:<br><br>* Backend Engineering<br>* AI System Integration<br>* REST API Architecture<br>* System Design<br>* Intelligent Automation<br><br>⚡ Strong focus on writing efficient, production-oriented code while continuously exploring scalable software architecture and Advanced DSA.<br>
+🚀 AI-Integrated backend developer passionate about building intelligent systems, scalable APIs, and real-world automation tools.<br><br>🔧 Currently building adaptive learning platforms, BLE-based smart systems, and AI-powered backend architectures using Flask, Firebase, Gemini APIs, and embedded technologies.<br><br>🧠 Interested in:<br><br>* Backend Engineering<br>* AI System Integration<br>* REST API Architecture<br>* System Design<br>* Intelligent Automation<br><br>⚡ Strong focus on writing efficient, production-oriented code while continuously exploring scalable software architecture and Advanced DSA.<br>
 
 <br clear="right"/>
 
